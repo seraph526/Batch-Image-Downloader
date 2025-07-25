@@ -3,7 +3,7 @@
 
 **Last Updated: July 21, 2025**
 
-QYoungs Studio ("we," "our," or "us") operates the Batch Image Downloader browser extension ("Service"). This page informs you of our policies regarding the collection, use, and disclosure of personal information we receive from users of the Service.
+Eric Zhao ("we," "our," or "us") operates the Batch Image Downloader browser extension ("Service"). This page informs you of our policies regarding the collection, use, and disclosure of personal information we receive from users of the Service.
 
 We will not share your information with anyone except as described in this Privacy Policy.
 

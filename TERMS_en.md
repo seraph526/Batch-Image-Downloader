@@ -5,7 +5,7 @@
 
 Welcome to Batch Image Downloader!
 
-These Terms of Service ("Terms") govern your use of the Batch Image Downloader browser extension ("Service") provided by QYoungs Studio ("we," "our," or "us").
+These Terms of Service ("Terms") govern your use of the Batch Image Downloader browser extension ("Service") provided by Eric Zhao ("we," "our," or "us").
 
 ## 1. Acceptance of Terms
 By accessing or using our Service, you agree to be bound by these Terms. If you disagree with any part of the terms, then you may not access the Service.
@@ -22,7 +22,7 @@ Batch Image Downloader is a browser extension designed to help users batch downl
 You agree not to use the Service for any unlawful or unauthorized purpose. You are responsible for ensuring you have the necessary rights or permissions for images downloaded from any website.
 
 ## 5. Intellectual Property
-The Service and its original content, features, and functionality are and will remain the exclusive property of QYoungs Studio and its licensors.
+The Service and its original content, features, and functionality are and will remain the exclusive property of Eric Zhao and its licensors.
 
 ## 6. Termination
 We may terminate or suspend your access to our Service immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.
